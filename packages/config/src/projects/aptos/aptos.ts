@@ -23,6 +23,9 @@ export const aptos: Bridge = {
         'https://theaptosbridge.com/bridge',
         'https://layerzero.network/',
       ],
+      documentation: [
+        'https://aptos.dev/',
+      ],
       repositories: [
         'https://github.com/LayerZero-Labs',
         'https://github.com/aptos-labs',
